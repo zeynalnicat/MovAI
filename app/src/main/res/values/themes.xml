@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MovieApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Make status bar and navigation bar transparent -->
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:navigationBarColor">@color/primary</item>
+
+        <item name="windowActionBarOverlay">true</item>
+
+        <item name="actionBarStyle">@style/ThemeActionBar</item>
+    </style>
+
+    <style name="Theme.MovieApp" parent="Base.Theme.MovieApp" >
+
+    </style>
+
+    <style name="ThemeActionBar" parent="Widget.AppCompat.Light.ActionBar.Solid">
+
+        <item name="android:background">@android:color/transparent</item>
+        <item name="background">@android:color/transparent</item>
+
+    </style>
+</resources>

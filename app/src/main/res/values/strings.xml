@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MovAI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="landing_title">Watch movies anytime anywhere</string>
+    <string name="landing_subtitle">Explore a vast collection of blockbuster movies, timeless classics, and the latest releases.</string>
+
+
+    <string name="button_login">Login</string>
+    <string name="button_sign_up">Sign Up</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="create">Create Account</string>
+    <string name="already_have">Already have an account?</string>
+    <string name="not_account">Haven’t made an account?</string>
+</resources>
